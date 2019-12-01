@@ -1,0 +1,46 @@
+[
+	{
+		"type" : "Car"
+		"front" : [1,4]
+		"back" : [0,4]
+	},
+	{
+		"type" : "Truck"
+		"front" : [5,2]
+		"middle" : [5,1]
+		"back" : [5,0]
+	},
+	{
+		"type" : "Car"
+		"front" : [15,1]
+		"back" : [15,0]
+	},
+	{
+		"type" : "Truck"
+		"front" : [17,5]
+		"middle" : [18,5]
+		"back" : [19,5]
+	},
+	{
+		"type" : "Car"
+		"front" : [18,15]
+		"back" : [19,15]
+	},
+	{
+		"type" : "Truck"
+		"front" : [14,17]
+		"middle" : [14,18]
+		"back" : [14,19]
+	},
+	{
+		"type" : "Car"
+		"front" : [4,18]
+		"back" : [4,19]
+	},
+	{
+		"type" : "Truck"
+		"front" : [2,14]
+		"middle" : [1,14]
+		"back" : [0,14]
+	}
+]
