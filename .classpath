@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="DataCommunication_2018_HW3_Student/src"/>
+	<classpathentry kind="lib" path="DataCommunication_2018_HW3_Student/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="DataCommunication_2018_HW3_Student/bin"/>
+</classpath>
